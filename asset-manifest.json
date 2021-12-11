@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/youshaneh/static/css/main.fc4fcf55.chunk.css",
-    "main.js": "/youshaneh/static/js/main.bf393ec4.chunk.js",
-    "main.js.map": "/youshaneh/static/js/main.bf393ec4.chunk.js.map",
-    "runtime-main.js": "/youshaneh/static/js/runtime-main.cacfad3f.js",
-    "runtime-main.js.map": "/youshaneh/static/js/runtime-main.cacfad3f.js.map",
-    "static/js/2.76827667.chunk.js": "/youshaneh/static/js/2.76827667.chunk.js",
-    "static/js/2.76827667.chunk.js.map": "/youshaneh/static/js/2.76827667.chunk.js.map",
-    "index.html": "/youshaneh/index.html",
-    "static/css/main.fc4fcf55.chunk.css.map": "/youshaneh/static/css/main.fc4fcf55.chunk.css.map",
-    "static/js/2.76827667.chunk.js.LICENSE.txt": "/youshaneh/static/js/2.76827667.chunk.js.LICENSE.txt"
+    "main.css": "/d3-react-task/static/css/main.fc4fcf55.chunk.css",
+    "main.js": "/d3-react-task/static/js/main.bf393ec4.chunk.js",
+    "main.js.map": "/d3-react-task/static/js/main.bf393ec4.chunk.js.map",
+    "runtime-main.js": "/d3-react-task/static/js/runtime-main.53e0fb67.js",
+    "runtime-main.js.map": "/d3-react-task/static/js/runtime-main.53e0fb67.js.map",
+    "static/js/2.76827667.chunk.js": "/d3-react-task/static/js/2.76827667.chunk.js",
+    "static/js/2.76827667.chunk.js.map": "/d3-react-task/static/js/2.76827667.chunk.js.map",
+    "index.html": "/d3-react-task/index.html",
+    "static/css/main.fc4fcf55.chunk.css.map": "/d3-react-task/static/css/main.fc4fcf55.chunk.css.map",
+    "static/js/2.76827667.chunk.js.LICENSE.txt": "/d3-react-task/static/js/2.76827667.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cacfad3f.js",
+    "static/js/runtime-main.53e0fb67.js",
     "static/js/2.76827667.chunk.js",
     "static/css/main.fc4fcf55.chunk.css",
     "static/js/main.bf393ec4.chunk.js"
